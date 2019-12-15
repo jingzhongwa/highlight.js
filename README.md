@@ -113,6 +113,7 @@ work for you, you can specify the language in the `class` attribute:
 | Java                    | java, jsp              |         |
 | JavaScript              | javascript, js, jsx    |         |
 | Kotlin                  | kotlin, kt             |         |
+| LaTeX                   | tex                    |         |
 | Leaf                    | leaf                   |         |
 | Lasso                   | lasso, ls, lassoscript |         |
 | Less                    | less                   |         |
@@ -193,7 +194,6 @@ work for you, you can specify the language in the `class` attribute:
 | Tcl                     | tcl, tk                |         |
 | Terraform (HCL)         | terraform, tf, hcl     | [highlightjs-terraform](https://github.com/highlightjs/highlightjs-terraform) |
 | Test Anything Protocol  | tap                    |         |
-| TeX                     | tex                    |         |
 | Thrift                  | thrift                 |         |
 | TP                      | tp                     |         |
 | Twig                    | twig, craftcms         |         |

@@ -45,6 +45,7 @@ function(hljs) {
   };
 
   return {
+    aliases: ['tex'],
     contains: [
       COMMAND,
       {
